@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.cloud.aws.s3.bucket",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.cloud.aws.s3.bucket'"
+}]}
